@@ -5,6 +5,7 @@ num2 = 31 ;
 
 multiply = num1* num2 ;
 
+
 multiply ;
 
 let random ;
@@ -15,7 +16,7 @@ random ;
 
 let mod, num3 = 8, num4 =  2 ;
 
-mod = num3 /  num4 ;
+mod = num3 %  num4 ;
 
 mod ;
 
